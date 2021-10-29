@@ -18,7 +18,7 @@ python
 
 output : 
 문자의 개수 : 6
-가장 큰 문자열 : y
+ASCII상에서 가장 큰 문자열 : y
 뒤집은 문자열 : nohtyp
 ```
 
